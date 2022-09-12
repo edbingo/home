@@ -1,3 +1,3 @@
 # Home
 
-New trial project, experimenting with Angular JS
+test bed for node w3c tds validation
